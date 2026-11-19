@@ -1,0 +1,6 @@
+ZoneID,ZoneName,ZoneType,latitude,longitude
+ZONE_001,Residential Zone,Residential,18.5,73.85
+ZONE_002,Office Zone,Commercial,18.56,73.91
+ZONE_003,Shopping Zone,Retail,18.52,73.88
+ZONE_004,Food & Dining Zone,Mixed Use,18.53,73.87
+ZONE_005,Leisure Zone,Recreational,18.51,73.86
